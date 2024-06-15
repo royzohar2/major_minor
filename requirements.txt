@@ -8,3 +8,6 @@ scikit-learn
 torchaudio
 xgboost
 shap
+sounddevice 
+wavio
+ipywidgets
