@@ -6,3 +6,5 @@ seaborn
 scipy
 scikit-learn
 torchaudio
+xgboost
+shap
