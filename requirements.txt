@@ -1,0 +1,13 @@
+numpy
+pandas
+librosa
+matplotlib
+seaborn
+scipy
+scikit-learn
+torchaudio
+xgboost
+shap
+sounddevice 
+wavio
+ipywidgets
